@@ -1,8 +1,4 @@
-# React + Vite
+# React + Vite + Vitest + React Testing Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![unit-test](https://github.com/l3ossdevz/react-unit-test-app-vitest/assets/97378968/82b92652-7358-45b8-90bb-b2951fdc42f5)
