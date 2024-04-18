@@ -4,7 +4,7 @@ const Counter = () => {
     const [count, setCount] = useState(0)
     return (
         <div>
-            <h1>Counter is : {count}</h1>
+            <h1 className="pb-5">Counter is : {count}</h1>
             <div className="container-button">
                 <button
                     className="button-increment"
