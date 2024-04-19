@@ -30,8 +30,7 @@ const UserList = () => {
    )
 
    return (
-      <div className="container mx-auto p-4">
-         <h1>UserList</h1>
+      <div className="p-4">
          <div className="mt-4">
             <input
                type="text"
